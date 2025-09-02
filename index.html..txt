@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>VisionCode</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #1a1a1a, #333);
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      padding: 50px 20px;
+    }
+    header h1 {
+      font-size: 3em;
+      margin: 0;
+      color: #00c3ff;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #ddd;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 25px;
+      background: #00c3ff;
+      color: #000;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #fff;
+      color: #000;
+    }
+    footer {
+      margin-top: 100px;
+      padding: 15px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>VisionCode</h1>
+    <p>مرحباً بكم في موقعي الأول 🚀</p>
+    <a href="#" class="btn">تواصل معي</a>
+  </header>
+
+  <footer>
+    &copy; 2025 VisionCode. جميع الحقوق محفوظة.
+  </footer>
+</body>
+</html>
